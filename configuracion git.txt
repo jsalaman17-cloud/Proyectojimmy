@@ -1,0 +1,16 @@
+comando de git
+
+git config --global user.name "Tu Nombre"
+git config --global user.email ""
+
+
+
+
+Usuario@GU2-141149 MINGW64 /c/Proyectojimmy (main)
+$ git config --global user.name "jsalaman17-cloud"
+
+Usuario@GU2-141149 MINGW64 /c/Proyectojimmy (main)
+$ git config --global user.email "jsalaman17-cloud"
+
+Usuario@GU2-141149 MINGW64 /c/Proyectojimmy (main)
+$ 
